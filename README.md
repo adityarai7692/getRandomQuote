@@ -1,6 +1,10 @@
 # Random Quote Generator
 
 A simple and responsive Random Quote Generator built using **HTML**, **CSS**, and **JavaScript**. The application fetches random quotes from an API and displays them with the author's name.
+## Live Demo
+
+🚀 Live Project: [https://yourusername.github.io/random-quote-generator/](https://adityarai7692.github.io/getRandomQuote/)
+
 
 ## Features
 
